@@ -1,4 +1,6 @@
-# generate root access keys
+# 1 criar um bucket com versionamento habilitado
+
+# 2 generate root access keys
 aws configure --profile root-mfa-delete-demo
 
 # enable mfa delete
